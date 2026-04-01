@@ -42,7 +42,7 @@ La API fue desarrollada utilizando Spring Initiallzr, utilizando **PostgreSQL en
 ### Documentación
 https://docs.google.com/document/d/1GpP7N2t16DwOePt0uGNhLbTr2-lgoiYarvTgoPuK_t8/edit?tab=t.0
 
-### Repositorio Microservicios despliegue en docker local (Actividad 2)
+### Repositorio Microservicios despliegue en docker local 
 https://github.com/Raynagah/backend-eft-fullstack-III.git
 
 
@@ -82,4 +82,4 @@ http://localhost:8080
 **Nicolás Bello**  
 **Rodrigo Vargas**
 
-Actividad 1 – Fullstack III
+Proyecto semestral – Fullstack III
