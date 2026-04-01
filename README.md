@@ -63,7 +63,7 @@ En cada raiz de microservicio ejecutar
 mvn clean package
 ```
 
-## 4. Ejecutar el servidor
+## 3. Ejecutar el servidor
 
 En la raiz del proyecto ejecutar
 ```
