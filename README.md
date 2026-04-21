@@ -56,10 +56,11 @@ https://github.com/Raynagah/frontend-eft-fullstack-III.git
 
 Para ejecutar el proyecto localmente:
 
-## 1. Clonar el repositorio
+## 1. Clonar los repositorios
 
 ```
 git clone https://github.com/Raynagah/backend-eft-fullstack-III.git
+git clone https://github.com/Raynagah/frontend-eft-fullstack-III.git
 ```
 
 ## 2. Instalar dependencias
