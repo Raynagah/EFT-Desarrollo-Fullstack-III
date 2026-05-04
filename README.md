@@ -10,7 +10,7 @@ Repositorio actual:
 - Link a repositorio con microservicios
 
 Repositorio microservicio:
-- 4 Microservicios
+- 7 Microservicios
 - Readme básico
 - Licencia
 
@@ -20,11 +20,14 @@ Repositorio Frontend:
 Repositorio Despliegue docker local:
 - Microservicios desplegados en docker localmente.
 
-El microservicios disponibles:
+Microservicios disponibles:
 - Reportes
 - Geolocalización
 - Coincidencias
 - Usuarios
+- Api-Gateway
+- Eureka-Server
+- BFF (Backend For Frontend)
 
 La API fue desarrollada utilizando Spring Initiallzr, utilizando **PostgreSQL en NeonDB** como base de datos.  .
 
